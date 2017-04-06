@@ -1,0 +1,55 @@
+
+
+#profileImage {
+	height: 18rem;
+	width: 18rem;
+	border-radius: 50%;
+}
+
+.work-images {
+	width: 20rem;
+	height: 20rem;
+	border-radius: 50%;
+}
+
+
+
+.hr {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 5px 5px -5px #8c8b8b inset;
+}
+
+
+.social-links {
+  float: right;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+
+.container {
+  text-align: center;
+}
+
+nav {
+	background-color: white;
+	text-align: left;
+}
+
+#mainContent {
+	margin-top: 25rem;
+	text-align: center;
+}
+
+.header {
+	text-align: left;
+}
+
+.work-container {
+}
+
+#whiteBackground {
+	border: 1px solid black;
+}
